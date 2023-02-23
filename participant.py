@@ -10,6 +10,7 @@ def Affichermenu():
     print("3- Rechercher un utilisateur par sa date d'enregistrement")
     print("4- Quitter \n")
 
+#Fonction pour afficher le menu
 def demanderMenu():
     menu = int(input("Taper:\n1 pour vous enregister \n2 pour consulter la liste \n3 Rechercher un utilisateur \n4 pour quitter\n"))
 
