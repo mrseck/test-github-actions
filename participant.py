@@ -76,7 +76,7 @@ match menu:
 #Fin du code par Seck
 
 
-#test with python 3.x
+#test with python 3.11
 
             
         
